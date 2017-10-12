@@ -24,7 +24,7 @@ Likes
 1. Listening to music
 2. Daydreaming
 3. Watching TV
-4. Taking in walk    
+4. Taking long walks in scenic placed   
 
 SAT Test Taking Tips
 * Read questions before reading text
