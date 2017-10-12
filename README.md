@@ -8,7 +8,7 @@ High School of Telecommunications Arts and Technology
 
  ---
 
-I am a junior in highschool that spends long hours on school work. I have club every Friday, and do community service from time to time. I will be taking the SAT's this year, therefore I will be applying for a SAT prep class. I live far from school, so making afterschool commitments are hard, but I still want to try. I hope to face all of this years challenges with an open-mind and sincerity.  
+I am a junior in highschool that spends long hours on school work. I have club every Friday, and do community service from time to time. I will be taking the SAT's this year, therefore I will be applying for a SAT prep class. I live far from school, so making afterschool commitments are hard, but I still want to try. I hope to face all of this years challenges open-mindly, and at the same time still stay sincere.  
 ### Schedule   
 **Period 1** - _Gym_  
 **Period 2** - _Software Enginnering_  
