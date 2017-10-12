@@ -8,8 +8,7 @@ High School of Telecommunications Arts and Technology
 
  ---
 
-I am a junior in highschool that spends long hours on schoolwork. I wake up early in the morning, so I can make it to school on time. I am always very tired because I sleep late at night.
-
+I am a junior in highschool that spends long hours on school work. I have club every Friday, and do community service from time to time. I will be taking the SAT's this year, therefore I will be applying for a SAT prep class. I live far from school, so making afterschool commitments are hard, but I still want to try. I hope to face all of this years challenges with an open-mind and sincerity.  
 ### Schedule   
 **Period 1** - _Gym_  
 **Period 2** - _Software Enginnering_  
@@ -20,13 +19,13 @@ I am a junior in highschool that spends long hours on schoolwork. I wake up earl
 **Period 7** - _AP Chemistry_  
 **Period 8** - _Study Hall_  
 
-Likes
+#### Likes
 1. Listening to music
 2. Daydreaming
 3. Watching TV
 4. Taking long walks in scenic places 
 
-SAT Test Taking Tips
+#### SAT Test Taking Tips
 * Read questions before reading text
 * Anotate text
   * Underline and circle important or unkown words
