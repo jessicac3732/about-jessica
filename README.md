@@ -32,6 +32,6 @@ SAT Test Taking Tips
   * Underline and circle important or unkown words
 * Eliminate irrelevent answer choices
 
-[Requirements](https://docs.google.com/presentation/d/1hrQMXRXgjCf_jbSwqm6YS8CoDLweqOgupKIunrjvAh8/edit#slide=id.g3ad02a1f9_00)
+[SEP Github Web Page](https://sites.google.com/a/hstat.org/11sep1718/github)
 
 
