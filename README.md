@@ -34,4 +34,4 @@ I am a junior in highschool that spends long hours on school work. I have club e
 [SEP Github Web Page](https://sites.google.com/a/hstat.org/11sep1718/github)
 
 
-_reviewed by Raquel Joseph
+_reviewed by Raquel Joseph_
